@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your_SERVER_IP",
-    "port": YOUR_SERVER_PORT,
+    "ip": "Civilization-bjRQ.aternos.me",
+    "port": 27408,
     "version": "1.20.1",
     "try-creative": false
   },
